@@ -2,6 +2,7 @@ import { Footer } from "./components/layout/Footer"
 import { NavBar } from "./components/layout/NavBar"
 import { Hero } from "./components/sections/Hero"
 import { About } from "./components/sections/About"
+import { Projects } from "./components/sections/Projects"
 import { Technologies } from "./components/sections/Technologies"
 
 function App() {
@@ -12,6 +13,7 @@ function App() {
         <Hero />
         <About />
         <Technologies />
+        <Projects />
       </main>
       <Footer />
     </div>

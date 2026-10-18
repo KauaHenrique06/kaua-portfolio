@@ -4,8 +4,8 @@ export function About()
 {
     return(
         <section id="sobre" className="mx-30 my-10">
-            <h2 className="mb-2 ml-4">01 . Sobre mim</h2>
-            <Card className="p-5 text-base shadow-2xl">
+            <h2 className="section-title mb-4 ml-4">01 . Sobre mim</h2>
+            <Card className="p-5 text-base">
                 <CardContent className="space-y-4 px-0">
                     <p>
                         Atualmente cursando o 6º semestre de Análise e Desenvolvimento de Sistemas na Fatec Prof. Waldomiro May, desenvolvo continuamente minhas habilidades na área de tecnologia com foco em desenvolvimento de software, arquitetura e soluções em sistemas.
