@@ -32,6 +32,8 @@ export const projects: Project[] = [
             stacks.php,
             stacks.laravel,
             stacks.postgresql,
+            stacks.redis,
+            stacks.docker,
         ],
         description: [
             "API de uma plataforma que conecta desenvolvedores e empresas, com perfis profissionais, vagas de emprego e recomendações usando embeddings armazenados no PostgreSQL com pgvector. Desenvolvida em dupla como trabalho de graduação.",
